@@ -1,0 +1,29 @@
+/* CSS for styling text input fields */
+input[type=text] {
+    border: 2px solid black;    /* Set a 2px solid black border */
+    border-radius: 4px;        /* Apply a 4px border radius for rounded corners */
+    width: 30%;                /* Set the width to 30% of the parent container */
+    padding: 8px 16px;         /* Add 8px padding on top/bottom and 16px padding on left/right */
+}
+
+/* CSS for styling buttons */
+button {
+    background-color: blue;    /* Set the background color to blue */
+    color: white;              /* Set the text color to white */
+    border: 1px;               /* Set a 1px border (missing border style, e.g., solid) */
+    border-radius: 4px;       /* Apply a 4px border radius for rounded corners */
+    padding: 8px 16px;        /* Add 8px padding on top/bottom and 16px padding on left/right */
+    margin: 4px 2px;           /* Set margin around the button (4px top/bottom, 2px left/right) */
+    cursor: pointer;          /* Use a pointer cursor on hover to indicate interactivity */
+}
+
+/* CSS for styling the body of the page */
+body {
+    text-align: center;        /* Center-align text within the body */
+}
+
+/* CSS for styling the result table */
+.resultTable {
+    display: inline-block;     /* Make the result table an inline-block element */
+    margin: auto;              /* Center-align the table within its container */
+}
