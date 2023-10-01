@@ -16,6 +16,7 @@ Front end: Responsible for the client-side of the application, where the user in
 Back end: Handles the server-side of the application, processing requests from the client and generating responses. 
 Database: Stores and manages the data used by the web application.
 
+
 Interface of the Project:
 ![image](https://github.com/Shubham120820/Search-Engine/assets/114136288/26ab1665-3529-4148-bbc5-39931cf49ca8)
 
